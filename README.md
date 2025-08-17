@@ -1,1 +1,1 @@
-# sb-rules
+# singbox-rules
