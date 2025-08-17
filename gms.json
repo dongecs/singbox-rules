@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "maplestory.nexon.net",
+        "nexon.com",
+        "nexon.net"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "nexon",
+        "maplestory",
+        "steam"
+      ]
+    },
+    {
+      "port": [
+        8484, 
+        8585, 
+        7575, 7576, 
+        7777, 7800, 7900, 
+        9000  
+      ]
+    }
+  ]
+}
+  
